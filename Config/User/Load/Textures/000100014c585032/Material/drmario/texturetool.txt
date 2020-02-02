@@ -1,0 +1,51 @@
+12/13/2018 2:31:45 PM:
+tex1_32x32_m_86e2da02c7726f0e_16 (0-00-00-00): Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:34:58 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:36:29 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:39:42 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:40:28 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:47:12 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:50:12 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:53:45 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:54:42 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:56:19 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 2:57:54 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:06:32 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:09:11 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:09:48 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:14:24 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:16:45 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+
+12/13/2018 3:17:45 PM:
+tex1_32x32_m_86e2da02c7726f0e_14: Wrong size detected. Spected: 1024x1024 Found: 1012x1012
+

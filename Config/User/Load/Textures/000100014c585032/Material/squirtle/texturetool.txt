@@ -1,0 +1,6 @@
+1/11/2019 5:10:43 AM:
+tex1_512x512_6b5679ccec1f0c86_14: Wrong size detected. Spected: 1024x1024 Found: 768x768
+
+1/11/2019 5:13:22 AM:
+tex1_512x512_6b5679ccec1f0c86_14: Wrong size detected. Spected: 1024x1024 Found: 768x768
+

@@ -1,0 +1,48 @@
+10/25/2018 6:32:31 AM:
+Error on ID:tex1_128x128_1cbf7caa860b2179_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_128x128_1cbf7caa860b2179_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/25/2018 6:32:31 AM:
+Error on ID:tex1_128x128_1cc2377ad93e5ab7_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_128x128_1cc2377ad93e5ab7_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/25/2018 6:40:59 AM:
+Error on ID:tex1_128x128_1cbf7caa860b2179_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_128x128_1cbf7caa860b2179_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/25/2018 6:40:59 AM:
+Error on ID:tex1_128x128_1cc2377ad93e5ab7_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_128x128_1cc2377ad93e5ab7_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/25/2018 6:46:23 AM:
+Error on ID:tex1_128x128_1cbf7caa860b2179_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_128x128_1cbf7caa860b2179_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/25/2018 6:46:23 AM:
+Error on ID:tex1_1024x512_f3f3ae95ccdcc3be_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Hyrule\tex1_1024x512_f3f3ae95ccdcc3be_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)

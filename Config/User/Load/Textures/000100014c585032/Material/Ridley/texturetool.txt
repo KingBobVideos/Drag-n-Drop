@@ -1,0 +1,32 @@
+10/17/2018 11:42:43 AM:
+Error on ID:tex1_512x512_e7e36b397d1c2446_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Ridley\tex1_512x512_e7e36b397d1c2446_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/17/2018 11:42:43 AM:
+Error on ID:tex1_512x512_db73cd3e5b421774_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Ridley\tex1_512x512_db73cd3e5b421774_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/17/2018 11:44:03 AM:
+Error on ID:tex1_512x512_e7e36b397d1c2446_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Ridley\tex1_512x512_e7e36b397d1c2446_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
+10/17/2018 11:44:03 AM:
+Error on ID:tex1_512x512_db73cd3e5b421774_14
+
+The file 'D:\Users\Ryan\Documents\Legacy XP\Smash Bros LXP\Dolphin LXP\Config\User\Load\Textures\RSBE01\Material\Ridley\tex1_512x512_db73cd3e5b421774_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)

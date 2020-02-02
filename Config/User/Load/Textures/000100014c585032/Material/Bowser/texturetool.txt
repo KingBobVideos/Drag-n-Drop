@@ -1,0 +1,8 @@
+6/13/2018 10:12:36 PM:
+Error on ID:tex1_512x512_3af8678f6dea289c_14
+
+The file 'C:\Users\Ryan\Desktop\New folder\tex1_512x512_3af8678f6dea289c_14.png' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at TextureEncoder.TextureEncoderWorker.ProccessMaterial(TextureEncoderWorker current, MaterialInfo material)
+   at TextureEncoder.TextureEncoderWorker.<>c__DisplayClass41_0.<Worker>b__4(String textureid)
